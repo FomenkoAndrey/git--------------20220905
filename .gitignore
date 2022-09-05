@@ -1,0 +1,8 @@
+# игнорим папки
+.vscode/
+.idea/
+node_modules/
+
+# игнорим файлы
+.DS_Store
+trash
